@@ -1,6 +1,4 @@
-# ENPM673 - Perception for Autonomous Robots
- 
-## Underwater Image Restoration 
+# Underwater Image Restoration 
 
 ## Environment used - VS code
 
