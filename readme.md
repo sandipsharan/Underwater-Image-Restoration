@@ -2,14 +2,6 @@
  
 ## Underwater Image Restoration 
 
-## Team Members
-* Sandip Sharan Senthil Kumar - Sandip26 - 119340196
-* Sandeep Thalapanane - sandeept - 119402535
-* Shreejay Badshah - Sbadshah - 119224564
-* Aaqib Barodawala - abarodaw - 119358710
-* Sourang Sri Hari - sourang - 119074947
-
-
 ## Environment used - VS code
 
 <br />
